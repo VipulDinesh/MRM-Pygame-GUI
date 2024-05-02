@@ -1,0 +1,7 @@
+BaseTrans=10.0.0.14
+RoverTrans=10.0.0.20
+L2U=10.0.0.7
+NVR=10.0.0.22
+RPi1=10.0.0.3
+Jetson=10.0.0.5
+#Localhost=127.0.0.1
